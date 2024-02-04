@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing GitHub Flow.
+My name is Ian Azimov and I am a junior at Farmingdale State College majoring in Computer Science!
